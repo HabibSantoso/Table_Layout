@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Table_Layout</string>
+    <string name="app_name">Sample Table Layout</string>
+    <string name="LoginForm">Login Form</string>
+    <string name="tUserName">User Name</string>
+    <string name="tPasswords">Passwords</string>
+    <string name="bLogin">Login</string>
+    <string name="icon">Icon Logo</string>
 </resources>
